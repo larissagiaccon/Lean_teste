@@ -32,7 +32,7 @@ Para complementar o teste, foram implementados testes End-To-End cobrindo todos 
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/larissagiaccon/Lean_teste
+$ git clone https://github.com/larissagiaccon/Lean_teste.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd lean_teste
