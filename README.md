@@ -32,10 +32,10 @@ Para complementar o teste, foram implementados testes End-To-End cobrindo todos 
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/larissagiaccon/Leanwork_teste
+$ git clone https://github.com/larissagiaccon/Lean_teste
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd leanwork_teste
+$ cd lean_teste
 
 # Instale as dependências
 $ npm install
