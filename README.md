@@ -63,10 +63,10 @@ $ npm test
 # ou utilizando o yarn
 $ yarn test
 
-# Para executar o covarage e verificar a cobertura dos testes
-$ npm test:covarage
+# Para executar o coverage e verificar a cobertura dos testes
+$ npm test:coverage
 # ou utilizando o yarn
-$ yarn test:covarage
+$ yarn test:coverage
 
 # No diretório do projeto abra o arquivo em
 # \coverage\lcov-report\index.html
